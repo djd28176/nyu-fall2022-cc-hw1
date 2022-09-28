@@ -1,6 +1,4 @@
 # Chatbot Concierge #
-# Teammate # 
-Jindong Du, Han Xu
 
 ## About ##
 
